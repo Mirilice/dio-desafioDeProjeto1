@@ -7,7 +7,7 @@
 | "Módulo 0 - Prepare-se para a Jornada"                      | 03/07  |
 | "Seja Protagonista Neste Bootcamp"                          | 03/07  |
 | "Boas-vindas ao Impulso Javascript Evolution"               | 03/07  |
-| "Mentoria #1: Impulso Javascript Evolution | Aula Inaugural"| 03/07  |
+| "Mentoria #1: Impulso Javascript Evolution - Aula Inaugural"| 03/07  |
 | "Introdução à Programação e Pensamento Computacional"       | 03/07  |
 | "Módulo I - Princípios de Desenvolvimento de Software"      | 03/07  |
 | "Introdução ao Git e ao GitHub"                             | 04/07  | 
