@@ -14,4 +14,4 @@
 | "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"| 05/07  |
 | "Primeiros passos para desenvolvimento web"                                 | 05/07  |
 | "Módulo II - Fundamentos Web com HTML e CSS"                                | 05/07  |
-|                               *TOTAL*                                       |  11    |
+|                             **TOTAL**                                       |  11    |
