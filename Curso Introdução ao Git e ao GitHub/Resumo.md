@@ -12,5 +12,5 @@
 * git clone <url do projeto> : clonagem do repositório 🧬
 * git add . : adiciona arquivo novo ou editado (Atenção: os arquivos não passaram por commit) ➕
 * git commit -m "(comentário)" : adição dos arquivos ao commit ✏ 
-* git push origin main : sobe as modificações para o repositório ⬆
+* git push origin main : sobe as modificações para o repositório 
  
