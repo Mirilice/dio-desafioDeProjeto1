@@ -5,4 +5,4 @@
 #### cd     |  cd
 #### dir    |  ls
 #### mkdir  |  mkdir
-#### del*   | rm-rf
+#### del*   | 
