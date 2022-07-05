@@ -1,4 +1,4 @@
-## COMEÇO : 30/06 a
+## COMEÇO : 30/06 
 ## META : Terminar todos os conteúdos até 07/08 para certificar meu conhecimento
 
 |                            Certificação                                     |  data  |
