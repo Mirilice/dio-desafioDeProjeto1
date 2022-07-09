@@ -17,4 +17,5 @@
 | "Introdução a criação de websites com HTML5 e CSS3"                         | 07/07  |
 | "Posicionando elementos com Flexbox em CSS"                                 | 07/07  |
 | "Recriando a página inicial do Instagram"                                   | 09/07  |
-|                               **TOTAL**                                     |  14    |
+| "IDE Instalação e Configuração (Visual Studio Code)"                        | 09/07  |
+|                               **TOTAL**                                     |  15    |
