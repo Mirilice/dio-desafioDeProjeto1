@@ -16,4 +16,5 @@
 | "Módulo II - Fundamentos Web com HTML e CSS"                                | 05/07  |
 | "Introdução a criação de websites com HTML5 e CSS3"                         | 07/07  |
 | "Posicionando elementos com Flexbox em CSS"                                 | 07/07  |
-|                               **TOTAL**                                     |  13    |
+| "Recriando a página inicial do Instagram"                                   | 09/07  |
+|                               **TOTAL**                                     |  14    |
