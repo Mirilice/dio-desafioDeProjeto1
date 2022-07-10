@@ -19,4 +19,5 @@
 | "Recriando a página inicial do Instagram"                                   | 09/07  |
 | "IDE Instalação e Configuração (Visual Studio Code)"                        | 09/07  |
 | "Introdução ao JavaScript"                                                  | 10/07  |
-|                               **TOTAL**                                     |  16    |
+| "Sintaxe Básica em JavaScript"                                              | 10/07  |
+|                               **TOTAL**                                     |  17    |
