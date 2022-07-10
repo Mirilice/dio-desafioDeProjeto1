@@ -21,4 +21,5 @@
 | "Introdução ao JavaScript"                                                  | 10/07  |
 | "Sintaxe Básica em JavaScript"                                              | 10/07  |
 | "Sintaxe e Operadores"                                                      | 10/07  |
-|                               **TOTAL**                                     |  18    |
+| "Variáveis e Tipos"                                                         | 10/07  |
+|                               **TOTAL**                                     |  19    |
