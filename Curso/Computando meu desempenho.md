@@ -20,4 +20,5 @@
 | "IDE Instalação e Configuração (Visual Studio Code)"                        | 09/07  |
 | "Introdução ao JavaScript"                                                  | 10/07  |
 | "Sintaxe Básica em JavaScript"                                              | 10/07  |
-|                               **TOTAL**                                     |  17    |
+| "Sintaxe e Operadores"                                                      | 10/07  |
+|                               **TOTAL**                                     |  18    |
