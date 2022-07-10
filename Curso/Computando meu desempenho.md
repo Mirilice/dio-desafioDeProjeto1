@@ -22,4 +22,5 @@
 | "Sintaxe Básica em JavaScript"                                              | 10/07  |
 | "Sintaxe e Operadores"                                                      | 10/07  |
 | "Variáveis e Tipos"                                                         | 10/07  |
-|                               **TOTAL**                                     |  19    |
+| "Funções"                                                                   | 10/07  |
+|                               **TOTAL**                                     |  20    |
