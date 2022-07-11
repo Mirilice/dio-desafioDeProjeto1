@@ -26,4 +26,5 @@
 | "Debugging e Error Handling"                                                |   10/07    |
 | "Manipulando a D.O.M. com JavaScript"                                       | **11/07**  |
 | "Javascript Assíncrono"                                                     |   11/07    |
-|                               **TOTAL**                                     |     23     |
+| "Orientação a objetos"                                                      |   11/07    |
+|                               **TOTAL**                                     |     24     |
