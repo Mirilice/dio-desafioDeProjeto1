@@ -24,4 +24,5 @@
 | "Variáveis e Tipos"                                                         |   10/07    |
 | "Funções"                                                                   |   10/07    |
 | "Debugging e Error Handling"                                                |   10/07    |
-|                               **TOTAL**                                     |     21     |
+| "Manipulando a D.O.M. com JavaScript"                                       | **11/07**  |
+|                               **TOTAL**                                     |     22     |
