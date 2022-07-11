@@ -24,4 +24,4 @@
 | "Variáveis e Tipos"                                                         |   10/07    |
 | "Funções"                                                                   |   10/07    |
 | "Funções"                                                                   |   10/07    |
-|                               **TOTAL**                                     |    21      |
+|                               **TOTAL**                                     |     21     |
