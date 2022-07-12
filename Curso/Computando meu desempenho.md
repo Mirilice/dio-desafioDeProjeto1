@@ -27,4 +27,5 @@
 | "Manipulando a D.O.M. com JavaScript"                                       | **11/07**  |
 | "Javascript Assíncrono"                                                     |   11/07    |
 | "Orientação a objetos"                                                      |   11/07    |
-|                               **TOTAL**                                     |     24     |
+| "Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces"          |   11/07    |
+|                               **TOTAL**                                     |     25     |
