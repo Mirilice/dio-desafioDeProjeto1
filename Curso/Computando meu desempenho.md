@@ -28,4 +28,6 @@
 | "Javascript Assíncrono"                                                     |   11/07    |
 | "Orientação a objetos"                                                      |   11/07    |
 | "Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces"          |   11/07    |
-|                               **TOTAL**                                     |     25     |
+| "Introdução Prática ao TypeScript"                                          | **25/07**  |
+| "Principais Protocolos de Comunicação da Internet"                          | **26/07**  |
+|                               **TOTAL**                                     |     27     |
